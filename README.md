@@ -1,6 +1,7 @@
 <p align="center">
   <picture>
-    <img src="profile-header.svg" alt="Gaurav Joshi" />
+    <source media="(prefers-color-scheme: dark)" srcset="profile-header.dark.svg" />
+    <img src="profile-header.light.svg" alt="Gaurav Joshi" />
   </picture>
 </p>
 
