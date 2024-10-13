@@ -1,7 +1,8 @@
+<!-- Profile header -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="profile-header.light.svg" />
-    <img src="profile-header.dark.svg" alt="Margareta Valencia" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/images/profile-header.dark.svg" />
+    <img src="assets/images/profile-header.light.svg" alt="Margareta Valencia" />
   </picture>
 </p>
 
