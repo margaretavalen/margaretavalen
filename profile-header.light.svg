@@ -10,14 +10,14 @@
       .heading {
         font-family: "Carlito";
         font-size: 36px;
-        fill: #3B3838;
+        fill: #ffff;
         letter-spacing: 4px;
         text-transform: uppercase;
       }
       .sub-heading {
         font-family: "Carlito";
         font-size: 20px;
-        fill: #767171;
+        fill: #ffff;
         letter-spacing: 0.5px;
       }
     </style>
