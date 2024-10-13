@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="profile-header.dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="profile-header.dark.svg" />
     <img src="profile-header.light.svg" alt="Margareta Valencia" />
   </picture>
 </p>
